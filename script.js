@@ -1,9 +1,9 @@
 const APPS_SCRIPT_URL =
-  'https://script.google.com/macros/s/AKfycbxKadUrlx1M9Rt5qsadjqEOphKHaEzBqdum8uV3Gy6AnZf4BC8iC3G3nJFkWj7g9UI/exec';
+  'https://script.google.com/macros/s/AKfycbxOeUHVu7LKTXlGBRw7fYMl54mDCvXG07jEkzZMvIR3LdOKOwWTyMDaI20a21ehZ7Ok/exec';
 const LOG_URL =
   'https://docs.google.com/spreadsheets/d/e/2PACX-1vSKhtmkuO0XQRtc41afR_Wk6TnWla0JkcrDu_TdLmlKDkM6qpMr6nowdKI31vfhi8oUUP63GZ4aPzyy/pub?gid=955322529&single=true&output=csv';
 const BAL_URL =
-  'https://docs.google.com/spreadsheets/d/e/2PACX-1vSKhtmkuO0XQRtc41afR_Wk6TnWla0JkcrDu_TdLmlKDkM6qpMr6nowdKI31vfhi8oUUP63GZ4aPzyy/pub?output=csv';
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vSKhtmkuO0XQRtc41afR_Wk6TnWla0JkcrDu_TdLmlKDkM6qpMr6nowdKI31vfhi8oUUP63GZ4aPzyy/pub?gid=0&single=true&output=csv';
 
 async function fetchData() {
   try {
